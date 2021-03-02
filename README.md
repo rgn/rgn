@@ -5,3 +5,4 @@
 
 <img src="/assets/images/Certification_37691.png" alt="biGENIUS Engineer" width="125px" style="float:left">
 <img src="/assets/images/Certification_38300.png" alt="biGENIUS Expert" width="125px" style="float:left">
+<img src="/assets/images/bg_master.png" alt="biGENIUS Master" width="125px" style="float:left">
