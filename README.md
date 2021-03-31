@@ -9,9 +9,9 @@
 
 ## Skills
 
-![Operating Systems](https://img.shields.io/badge/OS-Linux,Windows-orange "Operating Systems")
-![Code](https://img.shields.io/badge/Code-CSharp,JS,TS,Scala,Python-blue "Code")
-![Cloud](https://img.shields.io/badge/Cloud-AWS,Azure-green "Cloud")
+![Operating Systems](https://img.shields.io/badge/OS-Linux,_Windows-orange "Operating Systems")
+![Code](https://img.shields.io/badge/Code-CSharp,_JS,_TS,_Scala,_Python-blue "Code")
+![Cloud](https://img.shields.io/badge/Cloud-AWS,_Azure-green "Cloud")
 ![Database](https://img.shields.io/badge/Database-MSSQL,_MYSQL,_PSQL,_Mongo,_Redis-yellow "Database")
 ![Analytics](https://img.shields.io/badge/Analytics-SSAS,_Spark-gray "Analytics")
 ![Tools](https://img.shields.io/badge/Tools-Visual_Studio,_Visual_Studio_Code,_Docker,_Terraform,_Git,_VSTS,_Azure_DevOps,_GitHub,_ZSH,_PSH-teal "Tools")
